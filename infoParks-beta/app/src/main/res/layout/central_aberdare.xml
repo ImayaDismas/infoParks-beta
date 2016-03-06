@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:orientation="vertical"
+    android:layout_height="fill_parent">
+
+
+    <ScrollView xmlns="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:textAlignment="center"
+        android:fillViewport="false"
+        android:layout_alignParentEnd="false">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="1"
+            android:layout_marginBottom="190dp">
+
+
+
+            <android.support.v7.widget.CardView
+                xmlns:cardview="http://schemas.android.com/apk/res-auto"
+                android:layout_width="fill_parent"
+                android:layout_height="255dp"
+                android:layout_gravity="center_horizontal"
+                cardview:cardCornerRadius="5dp"
+                cardview:cardElevation="10dp">
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="240dp"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="190dp"
+                        android:id="@+id/imageView"
+                        android:scaleType="centerCrop"
+
+                        android:contentDescription="img"
+                        android:src="@drawable/aberdare" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="46dp"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:id="@+id/eastern1"
+                        android:textAlignment="center"
+                        android:textColor="#006400"
+                        android:text="Aberdare National Park" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                xmlns:cardview="http://schemas.android.com/apk/res-auto"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                cardview:cardCornerRadius="5dp"
+                cardview:cardElevation="10dp">
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="46dp"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:id="@+id/eatern2"
+                        android:textAlignment="center"
+                        android:textColor="#006400"
+                        android:text="About" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:id="@+id/eastern3"
+                        android:textAlignment="center"
+                        android:paddingStart="30dp"
+                        android:paddingEnd="30dp"
+                        android:textColor="#006400"
+                        android:text="Picturesque, steep forested ravines and open moorland characterise the Aberdare National Park. The park provides a habitat for elephants, black rhinos, leopards, spotted hyenas, olive baboons, black and white colobus monkeys, buffalos, warthogs and bushbucks among others. Rare sightings include those of the Giant Forest hog, bongo, golden cat, serval cat, African wild cat, African civet cat and the blue duiker. Visitors can indulge in picnics, trout fishing in the rivers and camping in the moorlands. Bird viewing is rewarding, with over 250 species of birds in the park, including the Francolin, Sparrow hawks, goshawks, eagles, sunbirds and plovers." />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

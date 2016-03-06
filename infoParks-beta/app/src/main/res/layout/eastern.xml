@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
-</LinearLayout>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:orientation="vertical"
@@ -100,24 +95,22 @@
                 android:background="#192800"
                 android:layout_weight="1"
                 android:scaleType="fitXY"
-                android:src="@drawable/chyulu" />
+                android:src="@drawable/tsavo" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="46dp"
                 android:textAppearance="?android:attr/textAppearanceLarge"
-                android:hint="@string/orphanagetitle"
                 android:id="@+id/eastern6"
                 android:layout_marginTop="25dp"
                 android:textAlignment="center"
                 android:textColor="#006400"
-                android:text="Chyulu Hills National Park" />
+                android:text="Tsavo East National Park" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="46dp"
                 android:textAppearance="?android:attr/textAppearanceLarge"
-                android:hint="@string/orphanageabout"
                 android:id="@+id/eastern7"
                 android:textAlignment="center"
                 android:textColor="#006400" />
@@ -130,12 +123,8 @@
                 android:paddingStart="30dp"
                 android:paddingEnd="30dp"
                 android:textColor="#006400"
-                android:text="Verdant rolling hills of endless green, great blue skies and spectacular landscape views are what the Chyulu Hills provide to nature lovers. Large mammals include buffalo, bushbucks, elands, elephants, leopards, giant forest hogs, bush pigs, reedbucks and giraffes along with various reptiles and insects. Horse riding, camping, mountain climbing and bird watching can be enjoyed in this hidden part of paradise." />
-
-
-
-
-        </LinearLayout>
+                android:text="@string/tsavodes"/>
+                </LinearLayout>
     </ScrollView>
 
 
