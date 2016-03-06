@@ -38,16 +38,16 @@
                         android:id="@+id/imageView"
                         android:scaleType="centerCrop"
 
-                        android:contentDescription="img" />
+                        android:contentDescription="img"
+                        android:src="@drawable/tsavo" />
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="46dp"
                         android:textAppearance="?android:attr/textAppearanceLarge"
-                        android:hint="@string/nairobititle"
                         android:id="@+id/eastern1"
                         android:textAlignment="center"
                         android:textColor="#006400"
-                        android:text="Name of park" />
+                        android:text="Tsavo East National Park" />
                 </LinearLayout>
             </android.support.v7.widget.CardView>
 
@@ -69,11 +69,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="46dp"
                         android:textAppearance="?android:attr/textAppearanceLarge"
-
                         android:id="@+id/eatern2"
                         android:textAlignment="center"
                         android:textColor="#006400"
-                        android:text="Lorem ipsum" />
+                        android:text="About" />
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -83,29 +82,22 @@
                         android:textAlignment="center"
                         android:paddingStart="30dp"
                         android:paddingEnd="30dp"
-                        android:textColor="#006400" />
+                        android:textColor="#006400"
+                        android:text="Tsavo East National Park is one of the oldest and largest parks in Kenya at 13,747 square kilometres. Situated in a semi-arid area previously known as the Taru Desert it opened in April 1948, it is located near the town of Voi in the Taita-Taveta County of the former Coast Province." />
                 </LinearLayout>
             </android.support.v7.widget.CardView>
 
-            <android.support.v7.widget.CardView
-                xmlns:cardview="http://schemas.android.com/apk/res-auto"
+
+            <ImageView
                 android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                cardview:cardCornerRadius="5dp"
-                cardview:cardElevation="10dp">
-                <LinearLayout
-                    android:layout_width="fill_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="vertical"
-                    android:padding="8dp">
+                android:layout_height="190dp"
+                android:id="@+id/imageView2"
+                android:contentDescription="@string/orphanage"
+                android:background="#192800"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/chyulu" />
 
-
-
-                </LinearLayout>
-            </android.support.v7.widget.CardView>
-
-            <!--Not yet worked on-->
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="46dp"
@@ -115,16 +107,7 @@
                 android:layout_marginTop="25dp"
                 android:textAlignment="center"
                 android:textColor="#006400"
-                android:text="Name of Park" />
-
-            <ImageView
-                android:layout_width="fill_parent"
-                android:layout_height="0dp"
-                android:id="@+id/imageView2"
-                android:contentDescription="@string/orphanage"
-                android:background="#192800"
-                android:layout_weight="1"
-                android:scaleType="fitXY"/>
+                android:text="Chyulu Hills National Park" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -143,36 +126,10 @@
                 android:textAlignment="center"
                 android:paddingStart="30dp"
                 android:paddingEnd="30dp"
-                android:textColor="#006400" />
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="46dp"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:hint="@string/orphanagefeatures"
-                android:id="@+id/eastern5"
-                android:textAlignment="center"
-                android:layout_marginTop="50dp"
-                android:textColor="#006400" />
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="46dp"
-                android:textAppearance="?android:attr/textAppearanceMedium"
-                android:hint="@string/orphanagewildlife"
-                android:id="@+id/eastern8"
-                android:textAlignment="textStart"
-                android:paddingStart="100dp"
-                android:paddingEnd="100dp"
-                android:textColor="#006400" />
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceMedium"
-                android:hint="@string/orphanagepicnic"
-                android:id="@+id/eastern9"
-                android:textAlignment="textStart"
-                android:paddingStart="100dp"
-                android:paddingEnd="100dp"
-                android:textColor="#006400" />
+                android:textColor="#006400"
+                android:text="Verdant rolling hills of endless green, great blue skies and spectacular landscape views are what the Chyulu Hills provide to nature lovers. Large mammals include buffalo, bushbucks, elands, elephants, leopards, giant forest hogs, bush pigs, reedbucks and giraffes along with various reptiles and insects. Horse riding, camping, mountain climbing and bird watching can be enjoyed in this hidden part of paradise." />
+
+
 
 
         </LinearLayout>
