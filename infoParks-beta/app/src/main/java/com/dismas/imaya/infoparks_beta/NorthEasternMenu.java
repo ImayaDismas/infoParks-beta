@@ -11,6 +11,6 @@ public class NorthEasternMenu extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.north_eastern_menu);
+        setContentView(R.layout.north_eastern);
     }
 }

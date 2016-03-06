@@ -11,6 +11,6 @@ public class NairobiMenu extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.nairobi_menu);
+        setContentView(R.layout.nairobi);
     }
 }

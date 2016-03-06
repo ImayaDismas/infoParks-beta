@@ -11,6 +11,6 @@ public class CentralMenu extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.central_menu);
+        setContentView(R.layout.central);
     }
 }
