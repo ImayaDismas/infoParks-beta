@@ -13,6 +13,18 @@
     <string name="mount">Mount Kenya National Park</string>
     <string name="aberdare">Aberdare National Park</string>
 
+    <string name="nairobi_title">Parks In Nairobi Kenya</string>
+    <string name="naipark">Nairobi National Park</string>
+    <string name="orphanagepark">Nairobi Animal Orphanage</string>
+
+    <string name="eastern_title">Parks In Eastern Kenya</string>
+    <string name="teast">Tsavo East National Park</string>
+    <string name="chyulupark">Chyulu National Park</string>
+
+    <string name="north_title">Parks In North Eastern Kenya</string>
+    <string name="samburupark">Samburu National Park</string>
+    <string name="shabapark">Shaba National Park</string>
+
     <string name="nairobipark">nairobipark</string>
     <string name="nairobititle">Nairobi National Park</string>
     <string name="nairobiabout">About</string>
