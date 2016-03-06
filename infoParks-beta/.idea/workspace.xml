@@ -10,7 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2357dee7-ab83-43be-bee8-ac0c9a66fe88" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/coast_watamu.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/coast_watamu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/central.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/central.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/central_aberdare.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/central_aberdare.xml" />
     </list>
     <ignored path="infoParks-beta.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,61 +59,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="coast_kisite.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/coast_kisite.xml">
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="123" column="51" selection-start-line="123" selection-start-column="51" selection-end-line="123" selection-end-column="51" />
-              <folding>
-                <element signature="e#2044#2065#0" expanded="true" />
-                <element signature="e#3189#3210#0" expanded="true" />
-                <element signature="e#3645#3669#0" expanded="true" />
-                <element signature="e#4896#4920#0" expanded="true" />
-                <element signature="e#5347#5371#0" expanded="true" />
-                <element signature="e#5911#5933#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="coast_malindi.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/coast_malindi.xml">
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="120" column="53" selection-start-line="120" selection-start-column="53" selection-end-line="120" selection-end-column="53" />
-              <folding>
-                <element signature="e#2045#2067#0" expanded="true" />
-                <element signature="e#3191#3213#0" expanded="true" />
-                <element signature="e#3648#3673#0" expanded="true" />
-                <element signature="e#4900#4925#0" expanded="true" />
-                <element signature="e#5352#5377#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="coast_watamu.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/coast_watamu.xml">
+      <file leaf-file-name="central.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/central.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.70535713">
-              <caret line="122" column="51" selection-start-line="122" selection-start-column="51" selection-end-line="122" selection-end-column="51" />
-              <folding>
-                <element signature="e#2044#2065#0" expanded="true" />
-                <element signature="e#3189#3210#0" expanded="true" />
-                <element signature="e#3645#3669#0" expanded="true" />
-                <element signature="e#4896#4920#0" expanded="true" />
-                <element signature="e#5347#5371#0" expanded="true" />
-                <element signature="e#5911#5933#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-12.741936">
+              <caret line="129" column="0" selection-start-line="128" selection-start-column="16" selection-end-line="129" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="central_aberdare.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/central_aberdare.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.39642859">
+              <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1868,7 +1836,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/button.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/style.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/central.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/splash.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/eastern.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dismas/imaya/infoparks_beta/Splash.java" />
@@ -1891,7 +1858,6 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/dismas/imaya/infoparks_beta/Coast_watamu.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dismas/imaya/infoparks_beta/Central_mount.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dismas/imaya/infoparks_beta/Central_aberdare.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/central_aberdare.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/eastern_tsavo.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dismas/imaya/infoparks_beta/Nairobi.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dismas/imaya/infoparks_beta/Nairobi_orphanage.java" />
@@ -1915,6 +1881,8 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/coast_kisite.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/coast_malindi.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/coast_watamu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/central.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/central_aberdare.xml" />
       </list>
     </option>
   </component>
@@ -2515,17 +2483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/central.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.580646">
-          <caret line="50" column="67" selection-start-line="43" selection-start-column="20" selection-end-line="50" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/eastern_menu.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -2551,21 +2508,6 @@
             <element signature="e#758#781#0" expanded="true" />
             <element signature="e#916#933#0" expanded="true" />
             <element signature="e#1236#1259#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/central_menu.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.645162">
-          <caret line="22" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding>
-            <element signature="e#758#781#0" expanded="true" />
-            <element signature="e#916#931#0" expanded="true" />
-            <element signature="e#1234#1252#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2659,16 +2601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="1" selection-start-line="8" selection-start-column="21" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/central_aberdare.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2870,14 +2802,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.7">
-          <caret line="73" column="23" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/coast.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -2936,8 +2860,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70535713">
-          <caret line="122" column="51" selection-start-line="122" selection-start-column="51" selection-end-line="122" selection-end-column="51" />
+        <state vertical-scroll-proportion="-13.709678">
+          <caret line="124" column="49" selection-start-line="124" selection-start-column="49" selection-end-line="124" selection-end-column="49" />
           <folding>
             <element signature="e#2044#2065#0" expanded="true" />
             <element signature="e#3189#3210#0" expanded="true" />
@@ -2946,6 +2870,47 @@
             <element signature="e#5347#5371#0" expanded="true" />
             <element signature="e#5911#5933#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/central_menu.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.387096">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.7">
+          <caret line="73" column="23" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/central.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.741936">
+          <caret line="129" column="0" selection-start-line="128" selection-start-column="16" selection-end-line="129" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/central_aberdare.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39642859">
+          <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
