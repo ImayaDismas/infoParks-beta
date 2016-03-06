@@ -1,3 +1,28 @@
 <resources>
-    <string name="app_name">infoParks-beta</string>
+    <string name="app_name">infoParks</string>
+    <string name="nairobi">NAIROBI</string>
+    <string name="central">CENTRAL</string>
+    <string name="eastern">EASTERN</string>
+    <string name="northeastern">NORTH EASTERN</string>
+    <string name="coast">COAST</string>
+    <string name="riftvalley"> RIFT VALLEY</string>
+    <string name="nyanza">NYANZA</string>
+    <string name="western">WESTERN</string>
+
+    <string name="nairobipark">nairobipark</string>
+    <string name="nairobititle">Nairobi National Park</string>
+    <string name="nairobiabout">About</string>
+    <string name="nairobicontent1">A short drive out of Nairobi central business district is the Nairobi National Park. Wide open grass plains and backdrop of the city scrapers, scattered acacia bush play host to a wide variety of wildlife including the endangered black rhino, lions, leopards, cheetahs, hyenas, buffaloes, giraffes and diverse birdlife with over 400 species recorded. Visitors can enjoy the parks picnic sites, three campsites and the walking trails for hikers.</string>
+    <string name="nairobifeatures">Key Features</string>
+    <string name="nairobiwildlife">Wildlife</string>
+    <string name="nairobipicnic">Picnic Facilities</string>
+
+    <string name="orphanagetitle">Nairobi Animal Orphange</string>
+    <string name="orphanageabout">About</string>
+    <string name="orphanagecontent1">The Nairobi Animal Orphanage is located in the Nairobi National Park. It serves a treatments and rehabilitation centre for wild animals. The Orphanage hosts lions, cheetahs, hyenas, jackals, serval cats, rare Sokoke cats, warthogs, leopards, various monkeys, baboons and buffalo. Various birds can also be viewed including parrots, guinea fowls, crowned cranes and ostriches.</string>
+    <string name="orphanagefeatures">Key Features</string>
+    <string name="orphanagewildlife">Wildlife</string>
+    <string name="orphanagepicnic">Birds</string>
+    <string name="orphanage">orphanage</string>
+
 </resources>
