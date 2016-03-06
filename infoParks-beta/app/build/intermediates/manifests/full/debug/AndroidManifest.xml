@@ -18,7 +18,7 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
         <activity android:name="com.dismas.imaya.infoparks_beta.Nairobi" />
@@ -28,14 +28,13 @@
         <activity android:name="com.dismas.imaya.infoparks_beta.Coast" />
         <activity android:name="com.dismas.imaya.infoparks_beta.RiftValley" />
         <activity android:name="com.dismas.imaya.infoparks_beta.Nyanza" />
-        <!-- <activity android:name=".Splash"> -->
-        <!-- <intent-filter> -->
-        <!-- <action android:name="android.intent.action.MAIN" /> -->
+        <activity android:name="com.dismas.imaya.infoparks_beta.Splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-
-        <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-        <!-- </intent-filter> -->
-        <!-- </activity> -->
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity android:name="com.dismas.imaya.infoparks_beta.Western" />
     </application>
 

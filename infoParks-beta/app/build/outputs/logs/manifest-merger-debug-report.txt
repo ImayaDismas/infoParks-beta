@@ -37,16 +37,16 @@ activity#com.dismas.imaya.infoparks_beta.Main
 ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:11:9-17:20
 	android:name
 		ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:11:19-39
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
 ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
 ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:13:17-69
 	android:name
 		ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:13:25-66
-category#android.intent.category.LAUNCHER
-ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:15:17-77
+category#android.intent.category.DEFAULT
+ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:15:17-76
 	android:name
-		ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:15:27-74
+		ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:15:27-73
 activity#com.dismas.imaya.infoparks_beta.Nairobi
 ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:18:9-45
 	android:name
@@ -75,6 +75,16 @@ activity#com.dismas.imaya.infoparks_beta.Nyanza
 ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:24:9-44
 	android:name
 		ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:24:19-41
+activity#com.dismas.imaya.infoparks_beta.Splash
+ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:25:19-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:26:13-30:29
+category#android.intent.category.LAUNCHER
+ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:29:27-74
 activity#com.dismas.imaya.infoparks_beta.Western
 ADDED from /home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/AndroidManifest.xml:32:9-54
 	android:name
