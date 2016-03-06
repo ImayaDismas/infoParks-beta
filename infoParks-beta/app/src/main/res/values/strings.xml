@@ -8,6 +8,10 @@
     <string name="riftvalley"> RIFT VALLEY</string>
     <string name="nyanza">NYANZA</string>
     <string name="western">WESTERN</string>
+    <!--submenus-->
+    <string name="central_title">Parks In Central Kenya</string>
+    <string name="mount">Mount Kenya National Park</string>
+    <string name="aberdare">Aberdare National Park</string>
 
     <string name="nairobipark">nairobipark</string>
     <string name="nairobititle">Nairobi National Park</string>
