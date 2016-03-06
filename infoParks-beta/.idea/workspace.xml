@@ -10,9 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2357dee7-ab83-43be-bee8-ac0c9a66fe88" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/coast.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/coast.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/eastern_chyulu.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/eastern_chyulu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/coast_kisite.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/coast_kisite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/coast_malindi.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/coast_malindi.xml" />
     </list>
     <ignored path="infoParks-beta.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,14 +39,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="coast.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="coast.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/coast.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4375">
-              <caret line="119" column="47" selection-start-line="119" selection-start-column="47" selection-end-line="119" selection-end-column="47" />
+            <state vertical-scroll-proportion="-9.354838">
+              <caret line="122" column="52" selection-start-line="0" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
               <folding>
                 <element signature="e#2045#2065#0" expanded="true" />
                 <element signature="e#3189#3209#0" expanded="true" />
@@ -55,6 +54,45 @@
                 <element signature="e#4894#4917#0" expanded="true" />
                 <element signature="e#5344#5367#0" expanded="true" />
                 <element signature="e#5907#5928#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coast_kisite.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/coast_kisite.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="123" column="51" selection-start-line="123" selection-start-column="51" selection-end-line="123" selection-end-column="51" />
+              <folding>
+                <element signature="e#2044#2065#0" expanded="true" />
+                <element signature="e#3189#3210#0" expanded="true" />
+                <element signature="e#3645#3669#0" expanded="true" />
+                <element signature="e#4896#4920#0" expanded="true" />
+                <element signature="e#5347#5371#0" expanded="true" />
+                <element signature="e#5911#5933#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coast_malindi.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/coast_malindi.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5714286">
+              <caret line="120" column="53" selection-start-line="120" selection-start-column="53" selection-end-line="120" selection-end-column="53" />
+              <folding>
+                <element signature="e#2045#2067#0" expanded="true" />
+                <element signature="e#3191#3213#0" expanded="true" />
+                <element signature="e#3648#3673#0" expanded="true" />
+                <element signature="e#4900#4925#0" expanded="true" />
+                <element signature="e#5352#5377#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1829,8 +1867,6 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/dismas/imaya/infoparks_beta/Coast3.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dismas/imaya/infoparks_beta/Coast4.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dismas/imaya/infoparks_beta/CoastMenu.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/coast_malindi.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/coast_kisite.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/coast_watamu.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dismas/imaya/infoparks_beta/Coast_kisite.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dismas/imaya/infoparks_beta/Coast_malindi.java" />
@@ -1858,6 +1894,8 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/eastern_chyulu.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/coast.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/coast_kisite.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/coast_malindi.xml" />
       </list>
     </option>
   </component>
@@ -2256,7 +2294,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2560,17 +2598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/coast_malindi.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/coast_watamu.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
@@ -2586,6 +2613,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2593,6 +2623,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2607,17 +2640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/coast_kisite.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2850,8 +2872,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4375">
-          <caret line="119" column="47" selection-start-line="119" selection-start-column="47" selection-end-line="119" selection-end-column="47" />
+        <state vertical-scroll-proportion="-9.354838">
+          <caret line="122" column="52" selection-start-line="0" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
           <folding>
             <element signature="e#2045#2065#0" expanded="true" />
             <element signature="e#3189#3209#0" expanded="true" />
@@ -2859,6 +2881,41 @@
             <element signature="e#4894#4917#0" expanded="true" />
             <element signature="e#5344#5367#0" expanded="true" />
             <element signature="e#5907#5928#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/coast_kisite.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="123" column="51" selection-start-line="123" selection-start-column="51" selection-end-line="123" selection-end-column="51" />
+          <folding>
+            <element signature="e#2044#2065#0" expanded="true" />
+            <element signature="e#3189#3210#0" expanded="true" />
+            <element signature="e#3645#3669#0" expanded="true" />
+            <element signature="e#4896#4920#0" expanded="true" />
+            <element signature="e#5347#5371#0" expanded="true" />
+            <element signature="e#5911#5933#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/coast_malindi.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5714286">
+          <caret line="120" column="53" selection-start-line="120" selection-start-column="53" selection-end-line="120" selection-end-column="53" />
+          <folding>
+            <element signature="e#2045#2067#0" expanded="true" />
+            <element signature="e#3191#3213#0" expanded="true" />
+            <element signature="e#3648#3673#0" expanded="true" />
+            <element signature="e#4900#4925#0" expanded="true" />
+            <element signature="e#5352#5377#0" expanded="true" />
           </folding>
         </state>
       </provider>
