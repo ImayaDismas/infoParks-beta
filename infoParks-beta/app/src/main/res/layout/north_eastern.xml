@@ -1,6 +1,182 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:orientation="vertical"
+    android:layout_height="fill_parent">
 
-</LinearLayout>
+
+    <ScrollView xmlns="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:textAlignment="center"
+        android:fillViewport="false"
+        android:layout_alignParentEnd="false">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="1"
+            android:layout_marginBottom="190dp">
+
+
+            <android.support.v7.widget.CardView
+                xmlns:cardview="http://schemas.android.com/apk/res-auto"
+                android:layout_width="fill_parent"
+                android:layout_height="255dp"
+                android:layout_gravity="center_horizontal"
+                cardview:cardCornerRadius="5dp"
+                cardview:cardElevation="10dp">
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="240dp"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="190dp"
+                        android:id="@+id/imageView"
+                        android:scaleType="centerCrop"
+
+                        android:contentDescription="img" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="46dp"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:hint="@string/nairobititle"
+                        android:id="@+id/eastern1"
+                        android:textAlignment="center"
+                        android:textColor="#006400"
+                        android:text="Name of park" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                xmlns:cardview="http://schemas.android.com/apk/res-auto"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                cardview:cardCornerRadius="5dp"
+                cardview:cardElevation="10dp">
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="46dp"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+
+                        android:id="@+id/eatern2"
+                        android:textAlignment="center"
+                        android:textColor="#006400"
+                        android:text="Lorem ipsum" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:hint="@string/nairobicontent1"
+                        android:id="@+id/eastern3"
+                        android:textAlignment="center"
+                        android:paddingStart="30dp"
+                        android:paddingEnd="30dp"
+                        android:textColor="#006400" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                xmlns:cardview="http://schemas.android.com/apk/res-auto"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                cardview:cardCornerRadius="5dp"
+                cardview:cardElevation="10dp">
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+
+
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <!--Not yet worked on-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:hint="@string/orphanagetitle"
+                android:id="@+id/eastern6"
+                android:layout_marginTop="25dp"
+                android:textAlignment="center"
+                android:textColor="#006400"
+                android:text="Name of Park" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:id="@+id/imageView2"
+                android:contentDescription="@string/orphanage"
+                android:background="#192800"
+                android:layout_weight="1"
+                android:scaleType="fitXY"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:hint="@string/orphanageabout"
+                android:id="@+id/eastern7"
+                android:textAlignment="center"
+                android:textColor="#006400" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:hint="@string/orphanagecontent1"
+                android:id="@+id/eastern4"
+                android:textAlignment="center"
+                android:paddingStart="30dp"
+                android:paddingEnd="30dp"
+                android:textColor="#006400" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:hint="@string/orphanagefeatures"
+                android:id="@+id/eastern5"
+                android:textAlignment="center"
+                android:layout_marginTop="50dp"
+                android:textColor="#006400" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:hint="@string/orphanagewildlife"
+                android:id="@+id/eastern8"
+                android:textAlignment="textStart"
+                android:paddingStart="100dp"
+                android:paddingEnd="100dp"
+                android:textColor="#006400" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:hint="@string/orphanagepicnic"
+                android:id="@+id/eastern9"
+                android:textAlignment="textStart"
+                android:paddingStart="100dp"
+                android:paddingEnd="100dp"
+                android:textColor="#006400" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>
