@@ -38,7 +38,8 @@
                         android:id="@+id/imageView"
                         android:scaleType="centerCrop"
 
-                        android:contentDescription="img" />
+                        android:contentDescription="img"
+                        android:src="@drawable/samburu" />
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="46dp"
@@ -47,7 +48,7 @@
                         android:id="@+id/eastern1"
                         android:textAlignment="center"
                         android:textColor="#006400"
-                        android:text="Laikipia National Park" />
+                        android:text="Samburu National Park" />
                 </LinearLayout>
             </android.support.v7.widget.CardView>
 
@@ -73,7 +74,7 @@
                         android:id="@+id/eatern2"
                         android:textAlignment="center"
                         android:textColor="#006400"
-                        android:text="Lorem ipsum" />
+                        android:text="About" />
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -83,7 +84,8 @@
                         android:textAlignment="center"
                         android:paddingStart="30dp"
                         android:paddingEnd="30dp"
-                        android:textColor="#006400" />
+                        android:textColor="#006400"
+                        android:text="Enjoy a quintessential Kenyan northern safari with unrestricted access to rugged East African wilderness by including Samburu National Reserve in your bush plans! The 165-square kilometers (64 square miles) reserve is located northeast of Laikipia and is home to some of Africa’s rarest flora and fauna." />
                 </LinearLayout>
             </android.support.v7.widget.CardView>
 
@@ -106,6 +108,16 @@
             </android.support.v7.widget.CardView>
 
             <!--Not yet worked on-->
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="190dp"
+                android:id="@+id/imageView2"
+                android:contentDescription="@string/orphanage"
+                android:background="#192800"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/shaba" />
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="46dp"
@@ -115,16 +127,7 @@
                 android:layout_marginTop="25dp"
                 android:textAlignment="center"
                 android:textColor="#006400"
-                android:text="Name of Park" />
-
-            <ImageView
-                android:layout_width="fill_parent"
-                android:layout_height="0dp"
-                android:id="@+id/imageView2"
-                android:contentDescription="@string/orphanage"
-                android:background="#192800"
-                android:layout_weight="1"
-                android:scaleType="fitXY"/>
+                android:text="Shaba National Park" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -143,36 +146,11 @@
                 android:textAlignment="center"
                 android:paddingStart="30dp"
                 android:paddingEnd="30dp"
-                android:textColor="#006400" />
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="46dp"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:hint="@string/orphanagefeatures"
-                android:id="@+id/eastern5"
-                android:textAlignment="center"
-                android:layout_marginTop="50dp"
-                android:textColor="#006400" />
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="46dp"
-                android:textAppearance="?android:attr/textAppearanceMedium"
-                android:hint="@string/orphanagewildlife"
-                android:id="@+id/eastern8"
-                android:textAlignment="textStart"
-                android:paddingStart="100dp"
-                android:paddingEnd="100dp"
-                android:textColor="#006400" />
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceMedium"
-                android:hint="@string/orphanagepicnic"
-                android:id="@+id/eastern9"
-                android:textAlignment="textStart"
-                android:paddingStart="100dp"
-                android:paddingEnd="100dp"
-                android:textColor="#006400" />
+                android:textColor="#006400"
+                android:text="Shaba National Reserve in northern Kenya offers the astute African traveler 92 square miles (239 square kilometers) of breathtaking scenery amidst arid grasslands and sparse woodland set against the backdrop hills of Shaba, a volcanic extinct highland. The reserve is named for the 1525-meter Mount Shaba that was the yesteryear source of varied lava flow across the reserve. Along the northern border, the Ewaso Nyiro River winds through deep gorges, along sandbanks, then cascades down Chandler’s Falls and finally draining it all at Lorian Swamp." />
+
+
+
 
 
         </LinearLayout>
