@@ -25,6 +25,12 @@
     <string name="samburupark">Samburu National Park</string>
     <string name="shabapark">Shaba National Park</string>
 
+    <string name="coast_title">Parks At The Coast of Kenya</string>
+    <string name="mombasapark">Mombasa Marine National Park</string>
+    <string name="malindipark">Malindi Marine National Park</string>
+    <string name="kisitepark">Kisite Mpunguti Marine Park</string>
+    <string name="watamupark">Watamu Marine National Park</string>
+
     <string name="nairobipark">nairobipark</string>
     <string name="nairobititle">Nairobi National Park</string>
     <string name="nairobiabout">About</string>
