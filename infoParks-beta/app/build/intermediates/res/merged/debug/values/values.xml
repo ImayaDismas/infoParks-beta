@@ -221,11 +221,22 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="aberdare">Aberdare National Park</string>
     <string name="app_name">infoParks-beta</string>
     <string name="central">CENTRAL</string>
+    <string name="central_title">Parks In Central Kenya</string>
+    <string name="chyulupark">Chyulu National Park</string>
     <string name="coast">COAST</string>
+    <string name="coast_title">Parks At The Coast of Kenya</string>
     <string name="eastern">EASTERN</string>
+    <string name="eastern_title">Parks In Eastern Kenya</string>
+    <string name="kisitepark">Kisite Mpunguti Marine Park</string>
+    <string name="malindipark">Malindi Marine National Park</string>
+    <string name="mombasapark">Mombasa Marine National Park</string>
+    <string name="mount">Mount Kenya National Park</string>
+    <string name="naipark">Nairobi National Park</string>
     <string name="nairobi">NAIROBI</string>
+    <string name="nairobi_title">Parks In Nairobi Kenya</string>
     <string name="nairobiabout">About</string>
     <string name="nairobicontent1">A short drive out of Nairobi central business district is the Nairobi National Park. Wide open grass plains and backdrop of the city scrapers, scattered acacia bush play host to a wide variety of wildlife including the endangered black rhino, lions, leopards, cheetahs, hyenas, buffaloes, giraffes and diverse birdlife with over 400 species recorded. Visitors can enjoy the parks picnic sites, three campsites and the walking trails for hikers.</string>
     <string name="nairobifeatures">Key Features</string>
@@ -233,17 +244,23 @@
     <string name="nairobipicnic">Picnic Facilities</string>
     <string name="nairobititle">Nairobi National Park</string>
     <string name="nairobiwildlife">Wildlife</string>
+    <string name="north_title">Parks In North Eastern Kenya</string>
     <string name="northeastern">NORTH EASTERN</string>
     <string name="nyanza">NYANZA</string>
     <string name="orphanage">orphanage</string>
     <string name="orphanageabout">About</string>
     <string name="orphanagecontent1">The Nairobi Animal Orphanage is located in the Nairobi National Park. It serves a treatments and rehabilitation centre for wild animals. The Orphanage hosts lions, cheetahs, hyenas, jackals, serval cats, rare Sokoke cats, warthogs, leopards, various monkeys, baboons and buffalo. Various birds can also be viewed including parrots, guinea fowls, crowned cranes and ostriches.</string>
     <string name="orphanagefeatures">Key Features</string>
+    <string name="orphanagepark">Nairobi Animal Orphanage</string>
     <string name="orphanagepicnic">Birds</string>
     <string name="orphanagetitle">Nairobi Animal Orphange</string>
     <string name="orphanagewildlife">Wildlife</string>
     <string name="riftvalley"> RIFT VALLEY</string>
+    <string name="samburupark">Samburu National Park</string>
+    <string name="shabapark">Shaba National Park</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="teast">Tsavo East National Park</string>
+    <string name="watamupark">Watamu Marine National Park</string>
     <string name="western">WESTERN</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

@@ -22,10 +22,22 @@
             </intent-filter>
         </activity>
         <activity android:name="com.dismas.imaya.infoparks_beta.Nairobi" />
+        <activity android:name="com.dismas.imaya.infoparks_beta.Nairobi_orphanage" />
+        <activity android:name="com.dismas.imaya.infoparks_beta.NairobiMenu" />
         <activity android:name="com.dismas.imaya.infoparks_beta.Central" />
+        <activity android:name="com.dismas.imaya.infoparks_beta.Central_aberdare" />
+        <activity android:name="com.dismas.imaya.infoparks_beta.CentralMenu" />
         <activity android:name="com.dismas.imaya.infoparks_beta.Eastern" />
+        <activity android:name="com.dismas.imaya.infoparks_beta.Eastern_chyulu" />
+        <activity android:name="com.dismas.imaya.infoparks_beta.EasternMenu" />
         <activity android:name="com.dismas.imaya.infoparks_beta.NorthEastern" />
+        <activity android:name="com.dismas.imaya.infoparks_beta.NorthEastern_shaba" />
+        <activity android:name="com.dismas.imaya.infoparks_beta.NorthEasternMenu" />
         <activity android:name="com.dismas.imaya.infoparks_beta.Coast" />
+        <activity android:name="com.dismas.imaya.infoparks_beta.Coast_kisite" />
+        <activity android:name="com.dismas.imaya.infoparks_beta.Coast_malindi" />
+        <activity android:name="com.dismas.imaya.infoparks_beta.Coast_watamu" />
+        <activity android:name="com.dismas.imaya.infoparks_beta.CoastMenu" />
         <activity android:name="com.dismas.imaya.infoparks_beta.RiftValley" />
         <activity android:name="com.dismas.imaya.infoparks_beta.Nyanza" />
         <activity android:name="com.dismas.imaya.infoparks_beta.Splash" >

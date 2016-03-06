@@ -11,6 +11,6 @@ public class Coast extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.coast_menu);
+        setContentView(R.layout.coast);
     }
 }
