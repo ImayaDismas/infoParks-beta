@@ -15,6 +15,21 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Nairobi" />
+        <activity android:name=".Central" />
+        <activity android:name=".Eastern" />
+        <activity android:name=".NorthEastern" />
+        <activity android:name=".Coast" />
+        <activity android:name=".RiftValley" />
+        <activity android:name=".Nyanza" />
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Western"></activity>
     </application>
 
 </manifest>
