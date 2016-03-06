@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardview-v7-23.2.0-javadoc/cardview-v7-23.2.0-javadoc.iml" filepath="$PROJECT_DIR$/cardview-v7-23.2.0-javadoc/cardview-v7-23.2.0-javadoc.iml" />
       <module fileurl="file://$PROJECT_DIR$/infoParks-beta.iml" filepath="$PROJECT_DIR$/infoParks-beta.iml" />
     </modules>
   </component>
