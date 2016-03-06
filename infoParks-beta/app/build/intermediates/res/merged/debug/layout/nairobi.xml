@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:orientation="vertical"
+    android:layout_height="fill_parent">
+
+
+    <ScrollView xmlns="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:textAlignment="center"
+        android:fillViewport="false"
+        android:layout_alignParentEnd="false">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="1"
+            android:layout_marginBottom="190dp">
+
+
+            <android.support.v7.widget.CardView
+                xmlns:cardview="http://schemas.android.com/apk/res-auto"
+                android:layout_width="fill_parent"
+                android:layout_height="255dp"
+                android:layout_gravity="center_horizontal"
+                cardview:cardCornerRadius="5dp"
+                cardview:cardElevation="10dp">
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="240dp"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="190dp"
+                        android:id="@+id/imageView"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/nairobi"
+                        android:contentDescription="img" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="46dp"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:hint="@string/nairobititle"
+                        android:id="@+id/textView1"
+                        android:textAlignment="center"
+                        android:textColor="#006400" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            xmlns:cardview="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            cardview:cardCornerRadius="5dp"
+            cardview:cardElevation="10dp">
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="8dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="46dp"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:hint="@string/nairobiabout"
+                        android:id="@+id/textView3"
+                        android:textAlignment="center"
+                        android:textColor="#006400" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:hint="@string/nairobicontent1"
+                        android:id="@+id/textView4"
+                        android:textAlignment="center"
+                        android:paddingStart="30dp"
+                        android:paddingEnd="30dp"
+                        android:textColor="#006400" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            xmlns:cardview="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            cardview:cardCornerRadius="5dp"
+            cardview:cardElevation="10dp">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="8dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="46dp"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:hint="@string/nairobifeatures"
+                        android:id="@+id/textView5"
+                        android:textAlignment="center"
+                        android:textColor="#006400" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="46dp"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:hint="@string/nairobiwildlife"
+                        android:id="@+id/textView6"
+                        android:textAlignment="textStart"
+                        android:paddingStart="70dp"
+                        android:paddingEnd="70dp"
+                        android:textColor="#006400" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:hint="@string/nairobipicnic"
+                        android:id="@+id/textView7"
+                        android:textAlignment="textStart"
+                        android:paddingStart="70dp"
+                        android:paddingEnd="70dp"
+                        android:textColor="#006400" />
+        </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+            <!--Not yet worked on-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:hint="@string/orphanagetitle"
+                android:id="@+id/textView8"
+                android:layout_marginTop="25dp"
+                android:textAlignment="center"
+                android:textColor="#006400" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:id="@+id/imageView2"
+                android:contentDescription="@string/orphanage"
+                android:src="@drawable/orphanage"
+                android:background="#192800"
+                android:layout_weight="1"
+                android:scaleType="fitXY"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:hint="@string/orphanageabout"
+                android:id="@+id/textView10"
+                android:textAlignment="center"
+                android:textColor="#006400" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:hint="@string/orphanagecontent1"
+                android:id="@+id/textView11"
+                android:textAlignment="center"
+                android:paddingStart="30dp"
+                android:paddingEnd="30dp"
+                android:textColor="#006400" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:hint="@string/orphanagefeatures"
+                android:id="@+id/textView12"
+                android:textAlignment="center"
+                android:layout_marginTop="50dp"
+                android:textColor="#006400" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:hint="@string/orphanagewildlife"
+                android:id="@+id/textView13"
+                android:textAlignment="textStart"
+                android:paddingStart="100dp"
+                android:paddingEnd="100dp"
+                android:textColor="#006400" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:hint="@string/orphanagepicnic"
+                android:id="@+id/textView14"
+                android:textAlignment="textStart"
+                android:paddingStart="100dp"
+                android:paddingEnd="100dp"
+                android:textColor="#006400" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>
