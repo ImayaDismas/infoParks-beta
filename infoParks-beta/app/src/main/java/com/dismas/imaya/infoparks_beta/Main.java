@@ -72,7 +72,7 @@ public class Main extends AppCompatActivity {
             @Override
             public void onClick(View arg0) {
 
-                Intent intent = new Intent(context, NorthEasternMenu.class);
+                Intent intent = new Intent(context, EasternMenu.class);
                 startActivity(intent);
 
             }
