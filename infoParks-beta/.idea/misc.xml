@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
     <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
@@ -22,6 +23,13 @@
           <item index="3" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
         </list>
       </value>
+=======
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+>>>>>>> master
     </option>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
