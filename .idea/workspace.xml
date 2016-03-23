@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46ea2f3c-547f-40de-abd3-e2d806c0d6a1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/infoParks-beta/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/infoParks-beta/.gradle/2.8/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/infoParks-beta/.idea/gradle.xml" afterPath="$PROJECT_DIR$/infoParks-beta/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/infoParks-beta/.idea/misc.xml" afterPath="$PROJECT_DIR$/infoParks-beta/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/infoParks-beta/.idea/vcs.xml" afterPath="$PROJECT_DIR$/infoParks-beta/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/infoParks-beta/.idea/workspace.xml" afterPath="$PROJECT_DIR$/infoParks-beta/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="46ea2f3c-547f-40de-abd3-e2d806c0d6a1" name="Default" comment="" />
     <ignored path="infoParks-beta.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
