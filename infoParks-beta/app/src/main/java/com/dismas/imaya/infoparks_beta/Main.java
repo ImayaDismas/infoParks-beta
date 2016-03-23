@@ -34,7 +34,7 @@ public class Main extends AppCompatActivity {
             @Override
             public void onClick(View arg0) {
 
-                Intent intent = new Intent(context, Nairobi.class);
+                Intent intent = new Intent(context, NairobiMenu.class);
                 startActivity(intent);
 
             }
@@ -53,7 +53,7 @@ public class Main extends AppCompatActivity {
             @Override
             public void onClick(View arg0) {
 
-                Intent intent = new Intent(context, Central.class);
+                Intent intent = new Intent(context, CentralMenu.class);
                 startActivity(intent);
 
             }
@@ -72,7 +72,7 @@ public class Main extends AppCompatActivity {
             @Override
             public void onClick(View arg0) {
 
-                Intent intent = new Intent(context, Eastern.class);
+                Intent intent = new Intent(context, EasternMenu.class);
                 startActivity(intent);
 
             }
@@ -91,7 +91,7 @@ public class Main extends AppCompatActivity {
             @Override
             public void onClick(View arg0) {
 
-                Intent intent = new Intent(context, NorthEastern.class);
+                Intent intent = new Intent(context, NorthEasternMenu.class);
                 startActivity(intent);
 
             }
@@ -110,7 +110,7 @@ public class Main extends AppCompatActivity {
             @Override
             public void onClick(View arg0) {
 
-                Intent intent = new Intent(context, Coast.class);
+                Intent intent = new Intent(context, CoastMenu.class);
                 startActivity(intent);
 
             }

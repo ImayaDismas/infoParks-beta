@@ -16,10 +16,22 @@
             </intent-filter>
         </activity>
         <activity android:name=".Nairobi" />
+        <activity android:name=".Nairobi_orphanage" />
+        <activity android:name=".NairobiMenu" />
         <activity android:name=".Central" />
+        <activity android:name=".Central_aberdare" />
+        <activity android:name=".CentralMenu" />
         <activity android:name=".Eastern" />
+        <activity android:name=".Eastern_chyulu" />
+        <activity android:name=".EasternMenu" />
         <activity android:name=".NorthEastern" />
+        <activity android:name=".NorthEastern_shaba" />
+        <activity android:name=".NorthEasternMenu" />
         <activity android:name=".Coast" />
+        <activity android:name=".Coast_kisite" />
+        <activity android:name=".Coast_malindi" />
+        <activity android:name=".Coast_watamu" />
+        <activity android:name=".CoastMenu" />
         <activity android:name=".RiftValley" />
         <activity android:name=".Nyanza" />
         <activity android:name=".Splash">

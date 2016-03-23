@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/kisite.jpg",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/kisite.jpg"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/button.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/button.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/samburu.jpg",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/samburu.jpg"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/orphanage.jpg",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/orphanage.jpg"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/tsavo.jpg",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/tsavo.jpg"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/donyo.jpg",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/donyo.jpg"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/malindi.jpg",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/malindi.jpg"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/mombasa.jpg",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/mombasa.jpg"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/mtkenya.jpg",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/mtkenya.jpg"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/shaba.jpg",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/shaba.jpg"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/watamu.jpg",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/watamu.jpg"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/mwingi.jpg",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/mwingi.jpg"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/marsabit.jpg",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/marsabit.jpg"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/map.png",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/map.png"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/nairobi.jpg",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/nairobi.jpg"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/chyulu.jpg",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/chyulu.jpg"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/drawable/aberdare.jpg",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/drawable/aberdare.jpg"
+    }
+]
