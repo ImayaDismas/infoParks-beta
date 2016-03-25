@@ -39,11 +39,12 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80754715">
-              <caret line="86" column="62" selection-start-line="86" selection-start-column="62" selection-end-line="86" selection-end-column="62" />
+            <state vertical-scroll-proportion="0.3264151">
+              <caret line="42" column="57" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
               <folding>
-                <element signature="e#2206#2229#0" expanded="true" />
-                <element signature="e#3354#3377#0" expanded="true" />
+                <element signature="e#2208#2233#0" expanded="true" />
+                <element signature="e#3358#3381#0" expanded="true" />
+                <element signature="e#3917#3943#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1827,8 +1828,8 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/layout/rift_valley_nakuru.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/rift_valley_amboseli.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/rift_valley_mara.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/rift_valley_amboseli.xml" />
       </list>
     </option>
   </component>
@@ -2221,11 +2222,12 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80754715">
-          <caret line="86" column="62" selection-start-line="86" selection-start-column="62" selection-end-line="86" selection-end-column="62" />
+        <state vertical-scroll-proportion="0.3264151">
+          <caret line="42" column="57" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
           <folding>
-            <element signature="e#2206#2229#0" expanded="true" />
-            <element signature="e#3354#3377#0" expanded="true" />
+            <element signature="e#2208#2233#0" expanded="true" />
+            <element signature="e#3358#3381#0" expanded="true" />
+            <element signature="e#3917#3943#0" expanded="true" />
           </folding>
         </state>
       </provider>
