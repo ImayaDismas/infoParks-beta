@@ -40,7 +40,7 @@
                         android:scaleType="centerCrop"
 
                         android:contentDescription="img"
-                        android:src="@drawable/mtkenya" />
+                        android:src="@drawable/lakenakuru" />
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="46dp"
@@ -90,5 +90,5 @@
         </LinearLayout>
     </ScrollView>
 
-    Climbing to 5,199 meters, Mount
+
 </RelativeLayout>
