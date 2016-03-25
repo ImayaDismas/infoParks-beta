@@ -31,6 +31,21 @@
     <string name="kisitepark">Kisite Mpunguti Marine Park</string>
     <string name="watamupark">Watamu Marine National Park</string>
 
+    <string name="riftValley_title">Parks In Rift Valley Kenya</string>
+    <string name="amboseliPark">Amboseli National Park</string>
+    <string name="longonotPark">Mt. Longonot National Park</string>
+    <string name="maasaiMaraPark">Maasai Mara National Park</string>
+    <string name="lakeNakuruPark">Lake Nakuru National Park</string>
+
+    <string name="nyanza_title">Parks In Nyanza Kenya</string>
+    <string name="rumaPark">Ruma National Park</string>
+
+    <string name="western_title">Parks In Nyanza Kenya</string>
+    <string name="elgonPark">Mt. Elgon National Park</string>
+
+
+
+    <!--NAIROBI DETAILS-->
     <string name="nairobipark">nairobipark</string>
     <string name="nairobititle">Nairobi National Park</string>
     <string name="nairobiabout">About</string>
