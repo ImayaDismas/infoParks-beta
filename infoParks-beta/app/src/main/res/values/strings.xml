@@ -75,6 +75,61 @@
     <string name="kisitewildlife">Abundant Bird Life</string>
     <string name="kisitepicnic">Fish</string>
 
+<!--RIFTVALLEY-->
+    <!--AMBOSELI-->
+    <string name="amboselititle">Amboseli National Park</string>
+    <string name="amboseliabout">About</string>
+    <string name="amboselicontent1">The park is 39,206 hectares in size at the core of an 8,000 square kilometres ecosystem that spreads across the Kenya-Tanzania border. The local people are mainly Maasai, but people from other parts of the country have settled there attracted by the successful tourist-driven economy and intensive agriculture along the system of swamps that makes this low-rainfall area one of the best widlife-viewing experiences in the world. The park protects two of the five main swamps, and includes a dried-up Pleistocene lake and semi-arid vegetation.</string>
+    <string name="amboselifeatures">Key Features</string>
+    <string name="amboseliwildlife"></string>
+    <string name="amboselipicnic"></string>
+
+    <!--MAASAI MARA-->
+    <string name="Maasaimaratitle">Maasai Mara National Park</string>
+    <string name="Maasaimaraabout">About</string>
+    <string name="Maasaimaracontent1"> The Maasai Mara National Reserve is one of the richest and most diverse wildlife areas in the world. Known as the ‘spotted land’ to the Maasai, the reserve is home to a vast number of resident wildlife, as well as part of the annual phenomenon of the Great Migration. The migratory wildebeest, zebra, kongoni and topi join abundant elephant, hippo, buffalo, giraffe, lion and cheetah in the Mara.</string>
+    <string name="Maasaimarafeatures">Key Features</string>
+    <string name="Maasaimarawildlife"></string>
+    <string name="Maasaimarapicnic"></string>
+
+    <!--MT. LONGONOT-->
+    <string name="longonottitle">Mt. Longonot National Park</string>
+    <string name="longonotabout">About</string>
+    <string name="longonotcontent1">A young volcano which rises to 2,776 meters above sea level, is an arresting sight for visitors to the Naivasha basin. Created amongst the massive eruptions which formed the Great Rift Valley, its sides now have beautiful V-shaped valleys and ridges with impenetrable forest around the area of the crater giving it a lush green aspect. The park surrounds the volcano.</string>
+    <string name="longonotfeatures">Key Features</string>
+    <string name="longonotwildlife"></string>
+    <string name="longonotpicnic"></string>
+
+    <!--L. NAKURU-->
+    <string name="nakurutitle">L. Nakuru National Park</string>
+    <string name="nakuruabout">About</string>
+    <string name="nakurucontent1">Lake Nakuru is world famous for, and was created a National Park, to protect its stunning flocks of lesser flamingo, which literally turn its shores pink. Its birdlife is world renowned: a beacon for leading ornithologists, scientists and wildlife film-makers. The park spans an attractive range of wooded and bush grassland around the lake offering wide ecological diversity, from lake water, woodland to the rocky escarpments and ridges.</string>
+    <string name="nakurufeatures">Key Features</string>
+    <string name="nakuruwildlife"></string>
+    <string name="nakurupicnic"></string>
+
+<!--NYANZA-->
+    <!--RUMA-->
+    <string name="rumatitle">Ruma National Park</string>
+    <string name="rumaabout">About</string>
+    <string name="rumacontent1">Ruma National Park covering an area of 120km2 is the only National Park in the entire Nyanza region  close to the shores of Lake Victoria. Population of rare roan antelopes which exist nowhere else in Kenya. It is also popular for its rare intra – African migrant, the blue swallow, and other over 400 bird species.</string>
+    <string name="rumafeatures">Key Features</string>
+    <string name="rumawildlife"></string>
+    <string name="rumapicnic"></string>
+
+<!--WESTERN-->
+    <!--MT. ELGON-->
+    <string name="elgontitle">Mt. Elgon National Park</string>
+    <string name="elgonabout">About</string>
+    <string name="elgoncontent1">Park is home to an estimated 400 elephants, buffalo, leopard, the protected colobus and blue monkeys, giant forest hog, watwerbuck and various other types of antelope. Over 240 species of birds have been recorded. Huge Elgon teak and cedar trees, some over 80 ft tall, dominate the forest scenery.</string>
+    <string name="elgonfeatures">Key Features</string>
+    <string name="elgonwildlife"></string>
+    <string name="elgonpicnic"></string>
+
+
+
+
+
     <string name="samburu">Enjoy a quintessential Kenyan northern safari with unrestricted access to rugged East African wilderness by including Samburu National Reserve in your bush plans! The 165-square kilometers (64 square miles) reserve is located northeast of Laikipia and is home to some of Africa’s rarest flora and fauna.</string>
     <string name="laikipia">Laikipia National Reserve is a remote and truly wild corner of Kenya, the Laikipia National Park boasts incredible game viewing in a spectacularly beautiful setting. Two rivers, the Ewaso Nyiro and Ewaso Narok run through the area, attracting a rich variety of wildlife, including the second largest population of elephant in Kenya.</string>
     <string name="shaba">Shaba National Reserve in northern Kenya offers the astute African traveler 92 square miles (239 square kilometers) of breathtaking scenery amidst arid grasslands and sparse woodland set against the backdrop hills of Shaba, a volcanic extinct highland. The reserve is named for the 1525-meter Mount Shaba that was the yesteryear source of varied lava flow across the reserve. Along the northern border, the Ewaso Nyiro River winds through deep gorges, along sandbanks, then cascades down Chandler’s Falls and finally draining it all at Lorian Swamp. </string>
@@ -82,4 +137,11 @@
     <string name="aberdare1">Picturesque, steep forested ravines and open moorland characterise the Aberdare National Park. The park provides a habitat for elephants, black rhinos, leopards, spotted hyenas, olive baboons, black and white colobus monkeys, buffalos, warthogs and bushbucks among others. Rare sightings include those of the Giant Forest hog, bongo, golden cat, serval cat, African wild cat, African civet cat and the blue duiker. Visitors can indulge in picnics, trout fishing in the rivers and camping in the moorlands. Bird viewing is rewarding, with over 250 species of birds in the park, including the Francolin, Sparrow hawks, goshawks, eagles, sunbirds and plovers.</string>
     <string name="tsavoEast">Tsavo East National Park</string>
     <string name="tsavodes">Tsavo East National Park is one of the oldest and largest parks in Kenya at 13,747 square kilometres. Situated in a semi-arid area previously known as the Taru Desert it opened in April 1948, it is located near the town of Voi in the Taita-Taveta County of the former Coast Province. </string>
+    <string name="amboseli"></string>
+    <string name="maasaimara"></string>
+    <string name="longonot"></string>
+    <string name="lnakuru"></string>
+    <string name="elgon"></string>
+    <string name="ruma"></string>
+
 </resources>
