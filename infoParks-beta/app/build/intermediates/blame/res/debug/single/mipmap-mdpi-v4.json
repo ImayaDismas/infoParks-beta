@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "D:\\home\\joseph\\android-studio-projects\\infoParks-beta\\infoParks-beta\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\home\\joseph\\android-studio-projects\\infoParks-beta\\infoParks-beta\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "D:\\home\\imaya\\android-projects\\infoParks-beta\\infoParks-beta\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\home\\imaya\\android-projects\\infoParks-beta\\infoParks-beta\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\aGithubRepo\\Projects\\android\\groupWork\\i\\infoParks-beta\\infoParks-beta\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\aGithubRepo\\Projects\\android\\groupWork\\i\\infoParks-beta\\infoParks-beta\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]
