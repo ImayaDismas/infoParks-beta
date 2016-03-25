@@ -40,7 +40,7 @@
                         android:scaleType="centerCrop"
 
                         android:contentDescription="img"
-                        android:src="@drawable/lakenakuru" />
+                        android:src="@drawable/elgon" />
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="46dp"
@@ -48,7 +48,7 @@
                         android:id="@+id/eastern1"
                         android:textAlignment="center"
                         android:textColor="#006400"
-                        android:text="@string/nakurutitle" />
+                        android:text="@string/elgontitle" />
                 </LinearLayout>
             </android.support.v7.widget.CardView>
 
@@ -74,7 +74,7 @@
                         android:id="@+id/eatern2"
                         android:textAlignment="center"
                         android:textColor="#006400"
-                        android:text="@string/nakuruabout" />
+                        android:text="@string/elgonabout" />
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -84,7 +84,7 @@
                         android:paddingStart="30dp"
                         android:paddingEnd="30dp"
                         android:textColor="#006400"
-                        android:text="@string/nakurucontent1" />
+                        android:text="@string/elgoncontent1" />
                 </LinearLayout>
             </android.support.v7.widget.CardView>
         </LinearLayout>
