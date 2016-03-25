@@ -2,53 +2,53 @@
 <items version="2" >
 
     <item
-        jar="/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
-        <dex dex="/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_900587dc0f1efd16086ddd5aa474047f50fe7f78.jar" />
-    </item>
-    <item
-        jar="/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
-        <dex dex="/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.0_0f2f72bc13ff8c28df00965ef13ba75f8b67d7cc.jar" />
-    </item>
-    <item
-        jar="/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
-        <dex dex="/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_694bd930bd05d3745ab0934c6146e112044edb45.jar" />
-    </item>
-    <item
-        jar="/home/joseph/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jar="C:\Users\user\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
-        <dex dex="/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_bcb16167d11a1cd303365363e2a09b593678c6c9.jar" />
+        <dex dex="D:\aGithubRepo\Projects\android\groupWork\i\infoParks-beta\infoParks-beta\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_e5c4e82b28fcec5b6149e0d722d3e7f73a3adb5f.jar" />
     </item>
     <item
-        jar="/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="292a9fa091757208efa65e77eef63088247e51f3">
-        <dex dex="/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_af36014accf54d8a5b5ba34cf8c6fe4e689f9c50.jar" />
-    </item>
-    <item
-        jar="/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6e239441500605809818997dd63b62a947195f8c">
-        <dex dex="/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_f205a2af3ff2e745ca5f3e98a6953fe8298cbc0a.jar" />
-    </item>
-    <item
-        jar="/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jar="D:\aGithubRepo\Projects\android\groupWork\i\infoParks-beta\infoParks-beta\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
-        <dex dex="/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_04aba0d966b3c1b4f659455cb37b97dd69b72cb7.jar" />
+        <dex dex="D:\aGithubRepo\Projects\android\groupWork\i\infoParks-beta\infoParks-beta\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_b6ace762ae4cd4376a6b2ded49ba457c980d1a9e.jar" />
+    </item>
+    <item
+        jar="D:\aGithubRepo\Projects\android\groupWork\i\infoParks-beta\infoParks-beta\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\aGithubRepo\Projects\android\groupWork\i\infoParks-beta\infoParks-beta\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_fc13708fa93a5affdfe70eb46aaab1e88ed2d7a8.jar" />
+    </item>
+    <item
+        jar="D:\aGithubRepo\Projects\android\groupWork\i\infoParks-beta\infoParks-beta\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\aGithubRepo\Projects\android\groupWork\i\infoParks-beta\infoParks-beta\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_b2ae2f47b361fbe800c1ef25f076bdf2cea75b03.jar" />
+    </item>
+    <item
+        jar="D:\aGithubRepo\Projects\android\groupWork\i\infoParks-beta\infoParks-beta\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\aGithubRepo\Projects\android\groupWork\i\infoParks-beta\infoParks-beta\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_38a0c679cb48827d7d23049508665f7ed9ca28df.jar" />
+    </item>
+    <item
+        jar="D:\aGithubRepo\Projects\android\groupWork\i\infoParks-beta\infoParks-beta\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\aGithubRepo\Projects\android\groupWork\i\infoParks-beta\infoParks-beta\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_ba053f0f7100126a20c7d8b20548a2ad1e7d79f1.jar" />
+    </item>
+    <item
+        jar="D:\aGithubRepo\Projects\android\groupWork\i\infoParks-beta\infoParks-beta\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="D:\aGithubRepo\Projects\android\groupWork\i\infoParks-beta\infoParks-beta\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.0_0bf57ecdd7085e7834368c510a075d5958e733c5.jar" />
     </item>
 
 </items>
