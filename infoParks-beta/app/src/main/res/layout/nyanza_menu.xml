@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:orientation="vertical"
+    android:layout_height="fill_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:orientation="vertical"
+        android:layout_height="fill_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/eastern1"
+            android:textAlignment="center"
+            android:textColor="#006400"
+            android:text="@string/riftValley_title" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:hint="@string/rumaPark"
+            android:id="@+id/button_ruma"
+            android:layout_weight="0.15"
+            android:background="@drawable/button"
+            style="@style/button_text" />
+
+        <!--<Button-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="75dp"-->
+            <!--android:hint="@string/longonotPark"-->
+            <!--android:id="@+id/button_longonot"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:layout_weight="0.14"-->
+            <!--android:background="@drawable/button"-->
+            <!--style="@style/button_text" />-->
+
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>
+
