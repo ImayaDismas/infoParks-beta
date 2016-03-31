@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">infoParks-beta</string>
+    <string name="app_name">infoParks</string>
     <string name="nairobi">NAIROBI</string>
     <string name="central">CENTRAL</string>
     <string name="eastern">EASTERN</string>

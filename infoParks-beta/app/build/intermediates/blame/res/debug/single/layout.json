@@ -1,375 +1,159 @@
 [
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/western.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/western.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/eastern.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/eastern.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast_watamu.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast_watamu.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast_menu.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast_menu.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/main.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_content_include.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/nairobi.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/nairobi.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast_menu.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast_menu.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/central_menu.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/central_menu.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/north_eastern_shaba.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/north_eastern_shaba.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/rift_valley.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/rift_valley.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast_watamu.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast_watamu.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_item_material.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/nairobi_orphanage.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/nairobi_orphanage.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/splash.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/splash.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast_kisite.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast_kisite.xml"
     },
     {
         "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast_malindi.xml",
         "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast_malindi.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/eastern_chyulu.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/eastern_chyulu.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_lines.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_item_material.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/central.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/central.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast_kisite.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast_kisite.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/nyanza.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/nyanza.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/splash.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/splash.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast_kisite.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast_kisite.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/eastern_chyulu.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/eastern_chyulu.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_toolbar.xml"
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/main.xml"
     },
     {
         "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast.xml",
         "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/rift_valley.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/rift_valley.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/nairobi.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/nairobi.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/nairobi_menu.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/nairobi_menu.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/central_aberdare.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/central_aberdare.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/central_aberdare.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/central_aberdare.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/eastern_menu.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/eastern_menu.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_media_action.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_view.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_content_include.xml"
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_up_container.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/north_eastern.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/north_eastern.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/nyanza.xml",
         "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/nyanza.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_toolbar.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/nairobi_menu.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/nairobi_menu.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/nairobi_orphanage.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/nairobi_orphanage.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_media.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_view.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/main.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_media_action.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/central.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/central.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/splash.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/eastern_chyulu.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/eastern_chyulu.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/eastern_menu.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/eastern_menu.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/eastern_chyulu.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/eastern_chyulu.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/nyanza.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/nyanza.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/central.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/central.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/eastern.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/eastern.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/nairobi_orphanage.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/nairobi_orphanage.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
@@ -380,95 +164,311 @@
         "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/north_eastern.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/north_eastern.xml"
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/north_eastern_menu.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/north_eastern_menu.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/north_eastern_shaba.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/north_eastern_shaba.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast_watamu.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast_watamu.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/central_menu.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/central_menu.xml"
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast_watamu.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast_watamu.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/western.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/western.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_chronometer.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/central_aberdare.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/central_aberdare.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/north_eastern_menu.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/north_eastern_menu.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/north_eastern_shaba.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/north_eastern_shaba.xml"
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/central_menu.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/central_menu.xml"
     },
     {
         "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/main.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/western.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/western.xml"
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
         "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_lines.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast_malindi.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast_malindi.xml"
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/nairobi_menu.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/nairobi_menu.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/central_aberdare.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/central_aberdare.xml"
     },
     {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/nairobi_menu.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/nairobi_menu.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/central_menu.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/central_menu.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/eastern.xml",
-        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/eastern.xml"
-    },
-    {
-        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_dialog_title_material.xml"
     },
     {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/rift_valley.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/rift_valley.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast_kisite.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast_kisite.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/eastern.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/eastern.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/north_eastern.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/north_eastern.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/north_eastern_shaba.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/north_eastern_shaba.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/nairobi.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/nairobi.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/central.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/central.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/western.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/western.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/north_eastern_menu.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/north_eastern_menu.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/nairobi_orphanage.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/nairobi_orphanage.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/splash.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/nairobi.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/nairobi.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast_menu.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast_menu.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast_malindi.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast_malindi.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/rift_valley.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/rift_valley.xml"
+    },
+    {
         "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/eastern_menu.xml",
         "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/eastern_menu.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/north_eastern.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/north_eastern.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/coast_menu.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/coast_menu.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/north_eastern_menu.xml",
+        "source": "/home/imaya/android-projects/infoParks-beta/infoParks-beta/app/src/main/res/layout/north_eastern_menu.xml"
+    },
+    {
+        "merged": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/joseph/android-studio-projects/infoParks-beta/infoParks-beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_multichoice_material.xml"
     }
 ]
